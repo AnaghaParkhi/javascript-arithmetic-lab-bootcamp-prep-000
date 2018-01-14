@@ -20,3 +20,4 @@ function divide(a,b){
  divide(4,2)
  
  function inc(n){ return  } inc()
+  function dec(n){ return  } dec()
