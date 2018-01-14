@@ -1,4 +1,4 @@
-Function addnum(number) {
+function addnum(number) {
   
   number +=3
 }
