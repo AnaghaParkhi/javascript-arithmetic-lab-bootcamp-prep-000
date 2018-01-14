@@ -1,4 +1,4 @@
-;Function add(number) {
+Function add(number) {
   
   number +=3
 }
