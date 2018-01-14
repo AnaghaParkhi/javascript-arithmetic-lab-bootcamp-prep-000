@@ -1,5 +1,5 @@
-function addnum(a,b) {
+function add(a,b) {
   
   return (a+b)
 }
-addnum(3,4)
+add(3,4)
