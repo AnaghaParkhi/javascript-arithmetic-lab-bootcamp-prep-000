@@ -19,4 +19,4 @@ function divide(a,b){
  }
  divide(4,2)
  
- function inc(n){ return  }
+ function inc(n){ return  } inc()
