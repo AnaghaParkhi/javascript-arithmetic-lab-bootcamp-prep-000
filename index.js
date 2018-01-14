@@ -13,3 +13,8 @@ function multiply(a,b){
   return(a,b)
 }
 multiply(2,2)  
+
+function divide(a,b){
+ return(a/b)
+ }
+ divide(4,2)
