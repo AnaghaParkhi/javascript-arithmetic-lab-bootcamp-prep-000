@@ -4,8 +4,8 @@ function add(a,b) {
 }
 add(3,4)
 
-function suntract(a,b)
+function suntract(a,b){
   return (a-b)
- 
+ }
 suntract(4,2)
   
