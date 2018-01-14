@@ -1,5 +1,5 @@
-Function add(number) {
+Function addnum(number) {
   
   number +=3
 }
-add()
+addnum()
